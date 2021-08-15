@@ -1,2 +1,6 @@
 RConnecting to database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
-EConnection is successful! com.mysql.cj.jdbc.ConnectionImpl@2a1065d4
+EConnection is successful! com.mysql.cj.jdbc.ConnectionImpl@385ef615
+RConnecting to database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
+EConnection is successful! com.mysql.cj.jdbc.ConnectionImpl@3645f47a
+RConnecting to database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
+EConnection is successful! com.mysql.cj.jdbc.ConnectionImpl@12d4c53e

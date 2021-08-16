@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabs.EmployeePayrollServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-15T17:55:39" hostname="DESKTOP-IB61PHE" time="1.025">
+<testsuite name="com.bridgelabs.EmployeePayrollServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-15T18:29:40" hostname="DESKTOP-IB61PHE" time="8.732">
   <properties/>
-  <testcase name="givenNewSalaryForEmployee_WhenUpdated_ShouldSyncWithDB" classname="com.bridgelabs.EmployeePayrollServiceTest" time="1.025"/>
+  <testcase name="givenNewSalaryForEmployee_WhenUpdated_ShouldSyncWithDBUsingPreparedStatement" classname="com.bridgelabs.EmployeePayrollServiceTest" time="8.732"/>
   <system-out><![CDATA[Connecting to database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
 Connection is successful! com.mysql.cj.jdbc.ConnectionImpl@385ef615
 Connecting to database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
-Connection is successful! com.mysql.cj.jdbc.ConnectionImpl@3645f47a
+Connection is successful! com.mysql.cj.jdbc.ConnectionImpl@29d26a62
 Connecting to database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
-Connection is successful! com.mysql.cj.jdbc.ConnectionImpl@12d4c53e
+Connection is successful! com.mysql.cj.jdbc.ConnectionImpl@7ce3fe5
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
